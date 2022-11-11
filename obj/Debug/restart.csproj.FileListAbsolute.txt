@@ -1,0 +1,8 @@
+C:\Users\Penumbra\Source\Repos\restart\obj\Debug\restart.csproj.AssemblyReference.cache
+C:\Users\Penumbra\Source\Repos\restart\obj\Debug\restart.csproj.CoreCompileInputs.cache
+C:\Users\Penumbra\Source\Repos\restart\bin\Debug\restart.dll
+C:\Users\Penumbra\Source\Repos\restart\bin\Debug\restart.pdb
+C:\Users\Penumbra\Source\Repos\restart\bin\Debug\Interfaces.dll
+C:\Users\Penumbra\Source\Repos\restart\obj\Debug\restart.csproj.CopyComplete
+C:\Users\Penumbra\Source\Repos\restart\obj\Debug\restart.dll
+C:\Users\Penumbra\Source\Repos\restart\obj\Debug\restart.pdb
