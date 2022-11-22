@@ -56,10 +56,10 @@ namespace RestartPlugin
 
         public string ParseText(string text, string window)
         {
-            if (text.Contains("Connected to dr.simutronics.net."))
-            {
-                this._host.SendText("#send 5 look");
-            }
+ //           if (text.Contains("Connected to dr.simutronics.net."))
+ //           {
+ //               this._host.SendText("#send 5 look");
+ //           }
             if (text.StartsWith("All Rights Reserved"))
             {
                 RestartCommand restartCommand = this.readFile();
